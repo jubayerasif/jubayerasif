@@ -8,6 +8,7 @@ I have been learning Web Developement and making things.
 
 * 🤝  Open to collaborating on open source projects
 * 📫  You can contact me at [jubaerasif101@gmail.com](mailto:jubaerasif101@gmail.com)
+* 🧠  Following this [Roadmap](https://roadmap.sh/frontend)
 
 ### Skills
 
