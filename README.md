@@ -1,7 +1,7 @@
 Hi 👋 I'am Jubayer Hasan Asif
 ====================
 
-Front-End Web Developer
+Front-End Developer
 ---------------
 
 I have been learning Web Developement and making things.
